@@ -4,7 +4,8 @@
 
 Use this gif as an example of how the app should work.
 
-![Demo GIF](./demo.gif)
+![demo](https://user-images.githubusercontent.com/119600559/224403008-6a6dc73d-be1a-4b8d-8228-d7211f0116c8.gif)
+
 
 ## Instructions
 
